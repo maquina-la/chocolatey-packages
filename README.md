@@ -2,7 +2,7 @@
 
 This repository contains the public package source for the Windows Máquina CLI.
 
-The initial package pins the `v0.1.0` Windows x64 archive and its SHA-256 checksum from [maquina-la/maquina-releases](https://github.com/maquina-la/maquina-releases).
+The initial package pins the `v0.1.1` Windows x64 archive and its SHA-256 checksum from [maquina-la/maquina-releases](https://github.com/maquina-la/maquina-releases).
 
 ## Status
 
