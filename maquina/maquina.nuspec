@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>maquina</id>
+    <version>0.1.0</version>
+    <title>Máquina CLI</title>
+    <authors>Máquina</authors>
+    <owners>maquina-la</owners>
+    <projectUrl>https://maquina.la</projectUrl>
+    <packageSourceUrl>https://github.com/maquina-la/chocolatey-packages</packageSourceUrl>
+    <license type="expression">Proprietary</license>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/maquina-la/maquina-releases</projectSourceUrl>
+    <docsUrl>https://github.com/maquina-la/maquina-releases</docsUrl>
+    <bugTrackerUrl>https://github.com/maquina-la/maquina/issues</bugTrackerUrl>
+    <summary>Portable governance, coordination, and evidence CLI for agent-assisted software delivery.</summary>
+    <description>Installs the public Windows x64 Máquina CLI binary. The package pins a versioned release archive and SHA-256 checksum.</description>
+    <tags>maquina ai agents governance developer-tools</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
